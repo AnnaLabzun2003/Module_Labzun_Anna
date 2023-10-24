@@ -61,8 +61,9 @@
 
 .central__element_1{
     font-family: 'Jim Nightshade', sans-serif;
+    text-align: center;
     font-size: 28px;
-    
+    justify-content: center;
     flex-grow: 1;
     flex-shrink: 1;
 
@@ -70,20 +71,23 @@
 
 .central__element_4{
     font-family: 'Jim Nightshade', sans-serif;
+    text-align: center;
     font-size: 28px;
-    
+    justify-content: center;
     flex-grow: 1;
     flex-shrink: 1;
 }
 
 .central__element_2 {
-    
+    justify-content: center;
+    text-align: center;
     flex-grow: 0;
     flex-shrink: 1;
 }
 
 .central__element_3 {
-    
+    justify-content: center;
+    text-align: center;
     flex-grow: 0;
     flex-shrink: 1;
 }
