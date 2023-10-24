@@ -155,6 +155,34 @@
 }
 
 
+@media (max-width: 470px) {
+    .logo {
+        display: none;
+    }
+}
+
+.left-menu__element1 img,
+.left-menu__element2 img,
+.left-menu__element3 img {
+    max-width: 100%; 
+    height: auto;
+
+}
+
+@media (max-width: 440px) {
+    .left-menu__element1 img,
+    .left-menu__element2 img,
+    .left-menu__element3 img {
+        max-width: 99%; 
+    }
+}
+
+
+
+
+
+
+
 
 
   
